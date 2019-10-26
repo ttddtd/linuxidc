@@ -1,2 +1,2 @@
 # linuxidc
-tis
+This is my first push!!!
